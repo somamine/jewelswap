@@ -1,0 +1,24 @@
+{
+  "name": "jewelswap",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.4",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@types/chai": "^4.2.21",
+    "@types/mocha": "^8.2.3",
+    "@types/node": "^16.3.2",
+    "aws-sdk": "^2.1060.0",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.3",
+    "hardhat": "^2.4.3",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
